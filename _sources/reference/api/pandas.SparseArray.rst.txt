@@ -1,0 +1,6 @@
+pandas.SparseArray
+==================
+
+.. currentmodule:: pandas
+
+.. autoclass:: SparseArray

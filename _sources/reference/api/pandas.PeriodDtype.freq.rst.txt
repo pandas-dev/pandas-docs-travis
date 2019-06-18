@@ -1,0 +1,6 @@
+pandas.PeriodDtype.freq
+=======================
+
+.. currentmodule:: pandas
+
+.. autoattribute:: PeriodDtype.freq
